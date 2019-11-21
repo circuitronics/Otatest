@@ -1,4 +1,4 @@
-wakeUpFrequency=43200000
+wakeUpFrequency = 43200000
 Type = Gas #12
 lat = 40.741895
 long = -73.989308
