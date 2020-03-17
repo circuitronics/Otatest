@@ -1,2 +1,2 @@
 def otaFunction():
-	print("Function 2 working")
+	print("Function 3 working")
