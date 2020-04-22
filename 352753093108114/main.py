@@ -15,7 +15,7 @@ while True:
 	print("mem free: ", gc.mem_free())
 	imei = str(xbee.XBee().atcmd('IM'))  # Getting the IMEI
 	deviceID = imei[-7:]  # Create deviceID from IMEI
-	print("IMEI_: ", imei)
+	print("IMEI: ", imei)
 	print("DevID: ", deviceID)
 	MainFunction()
 	# BreakPlease()
